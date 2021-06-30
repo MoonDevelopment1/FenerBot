@@ -111,7 +111,7 @@ client.on('error', e => {
 
 
 
-client.login(process.env.token);
+client.login(ayarlar.token);
 
 
 
